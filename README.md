@@ -1,5 +1,8 @@
+Forked from the Celligner_ms repo. Using this repo for running Celligner on many different combinations of datasets.
+
+
 # Celligner_ms
-This repo contains code associated with the manuscript describing Celligner, our method for aligning tumor and cell line transcriptional profiles.
+The original repo contains code associated with the manuscript describing Celligner, our method for aligning tumor and cell line transcriptional profiles.
 
 ## Data
 
