@@ -1,3 +1,5 @@
+# Celligner Tasks:
+Keep record of the data and scripts used to run various iterations of Celligner (e.g. with CCLF data and/or PDX data in addition to the data used in the manuscript).
 Forked from the Celligner_ms repo. Using this repo for running Celligner on many different combinations of datasets.
 
 
