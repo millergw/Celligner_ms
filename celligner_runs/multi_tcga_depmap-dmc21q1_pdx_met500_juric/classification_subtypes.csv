@@ -1,0 +1,81 @@
+lineage,subtype
+adrenal,adrenocortical carcinoma
+adrenal,pheochromocytoma & paraganglioma
+bile_duct,all
+blood,acute myeloid leukemia
+blood,acute lymphoblastic leukemia
+blood,acute megakaryoblastic leukemia
+bone,ewing sarcoma
+bone,osteosarcoma
+breast,luminal A
+breast,luminal B
+breast,HER2-enriched
+breast,basal
+breast,normal
+central_nervous_system,all
+central_nervous_system,glioblastoma multiforme
+central_nervous_system,choroid plexus carcinoma
+central_nervous_system,glioma
+central_nervous_system,medulloblastoma
+central_nervous_system,ependymoma
+central_nervous_system,supratentorial embryonal tumor NOS
+central_nervous_system,dysembryoplastic neuroepithelial tumor
+cervix,all
+colorectal,all
+colorectal,colon adenocarcinoma
+colorectal,rectum adenocarcinoma
+endocrine,all
+esophagus,all
+esophagus,all
+eye,uveal melanoma
+eye,retinoblastoma
+gastric,all
+gastric,stomach adenocarcinoma
+gastric,gastrointestinal stromal tumor
+germ_cell,non-seminoma
+germ_cell,seminoma
+kidney,papillary renal cell carcinoma
+kidney,kidney clear cell carcinoma
+kidney,kidney chromophobe
+kidney,wilms tumor
+liver,all
+lung,lung adenocarcinoma
+lung,lung squamous cell carcinoma
+lymphocyte,all
+lymphocyte,diffuse large b-cell lymphoma
+nerve,malignant peripheral nerve sheath tumor
+ovary,all
+pancreas,all
+peripheral_nervous_system,all
+prostate,all
+skin,all
+skin,transitory
+skin,melanocytic
+skin,neural crest-like
+skin,undifferentiated
+soft_tissue,alveolar rhabdomyosarcoma
+soft_tissue,alveolar sarcoma
+soft_tissue,angiosarcoma
+soft_tissue,atypical teratoid/rhabdoid tumor
+soft_tissue,embryonal rhabdomyosarcoma
+soft_tissue,spindle cell/sclerosing rhabdomyosarcoma
+soft_tissue,leiomyosarcoma
+soft_tissue,sarcoma
+soft_tissue,dedifferentiated liposarcoma
+soft_tissue,desmoplastic small round cell tumor
+soft_tissue,fibromatosis
+soft_tissue,myxofibrosarcoma
+soft_tissue,neurofibroma
+soft_tissue,synovial sarcoma
+soft_tissue,undifferentiated sarcoma NOS
+soft_tissue,undifferentiated pleomorphic sarcoma
+soft_tissue,undifferentiated spindle cell sarcoma
+teratoma,teratoma
+thymus,all
+thymus,thymic carcinoma
+thymus,thymoma
+thyroid,all
+upper_aerodigestive,all
+urinary_tract,all
+uterus,uterine endometrioid
+uterus,uterine carcinosarcoma

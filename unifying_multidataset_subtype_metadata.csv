@@ -1,0 +1,327 @@
+old_subtype_name,new_subtype_name
+acinar cell carcinoma,acinar cell carcinoma
+acute leukemia,acute leukemia
+acute lymphoblastic leukemia,acute lymphoblastic leukemia
+"acute lymphoblastic leukemia, b-cell","acute lymphoblastic leukemia, b-cell"
+"acute lymphoblastic leukemia, t-cell","acute lymphoblastic leukemia, t-cell"
+acute megakaryoblastic leukemia,acute megakaryoblastic leukemia
+AML,acute myeloid leukemia
+acute myeloid leukemia,acute myeloid leukemia
+acute undifferentiated leukemia,acute undifferentiated leukemia
+adenocarcinoma,adenocarcinoma
+"adenocarcinoma, clear cell","adenocarcinoma, clear cell"
+"adenocarcinoma, endometrioid","adenocarcinoma, endometrioid"
+"adenocarcinoma, high grade serous","adenocarcinoma, high grade serous"
+"adenocarcinoma, low grade serous","adenocarcinoma, low grade serous"
+"adenocarcinoma, mixed","adenocarcinoma, mixed"
+"adenocarcinoma, mucinous","adenocarcinoma, mucinous"
+"adenocarcinoma, serous","adenocarcinoma, serous"
+"adenocarcinoma, signet ring cell","adenocarcinoma, signet ring cell"
+"adenocarcinoma, tubular","adenocarcinoma, tubular"
+adenosquamous_carcinoma,adenosquamous carcinoma
+adrenocortical adenoma,adrenocortical adenoma
+adrenocortical carcinoma,adrenocortical carcinoma
+ALL,acute lymphoblastic leukemia
+alveolar rhabdomyosarcoma,alveolar rhabdomyosarcoma
+alveolar sarcoma,alveolar sarcoma
+anaplastic,anaplastic
+angiosarcoma,angiosarcoma
+ASPS,alveolar soft part sarcoma
+astrocytoma,astrocytoma
+astrocytoma_Grade_IV,astrocytoma grade IV
+atl,adult t-cell leukemia
+atypical teratoid rhabdoid tumor,atypical teratoid/rhabdoid tumor
+ATRT,atypical teratoid/rhabdoid tumor
+atypical teratoid/rhabdoid tumor,atypical teratoid/rhabdoid tumor
+b-cell,b-cell
+"b-cell, hodgkins","b-cell, hodgkins"
+"b-cell, non-hodgkins","b-cell, non-hodgkins"
+"b-cell, non-hodgkins, burkitts","b-cell, non-hodgkins, burkitts"
+"b-cell, non-hodgkins, mantle cell","b-cell, non-hodgkins, mantle cell"
+"b-cell, unspecified","b-cell, unspecified"
+basal,basal
+basal A,basal A
+basal B,basal B
+basal_cell_carcinoma,basal cell carcinoma
+basaloid_carcinoma,basaloid carcinoma
+biphasic,biphasic
+bladder,bladder
+bladder urothelial carcinoma,bladder urothelial carcinoma
+bone,bone
+breast,breast
+breast_carcinoma,breast carcinoma
+breast_ductal_carcinoma,breast ductal carcinoma
+caecum adenocarcinoma,caecum adenocarcinoma
+carcinoid,carcinoid
+carcinoma,carcinoma
+"carcinoma, anaplastic","carcinoma, anaplastic"
+"carcinoma, brenner","carcinoma, brenner"
+"carcinoma, follicular","carcinoma, follicular"
+"carcinoma, papillary","carcinoma, papillary"
+carcinosarcoma-malignant_mesodermal_mixed_tumour,carcinosarcoma (malignant mesodermal mixed tumor)
+cervical_adenocarcinoma,cervical adenocarcinoma
+cervical adenocarcinoma,cervical adenocarcinoma
+cervical_carcinoma,cervical carcinoma
+cervical_squamous,cervical squamous
+cholangiocarcinoma,cholangiocarcinoma
+"cholangiocarcinoma, extrahepatic","cholangiocarcinoma, extrahepatic"
+"cholangiocarcinoma, intrahepatic","cholangiocarcinoma, intrahepatic"
+chondroblastic,chondroblastic
+chondrosarcoma,chondrosarcoma
+choriocarcinoma,choriocarcinoma
+choroid plexus carcinoma,choroid plexus carcinoma
+"chronic lymphoblastic leukemia, b-cell","chronic lymphoblastic leukemia, b-cell"
+CML,chronic myelogenous leukemia
+chronic myelogenous leukemia,chronic myelogenous leukemia
+"chronic myelogenous leukemia, blast crisis","chronic myelogenous leukemia, blast crisis"
+Clear Cell Sarcoma,clear cell carcinoma
+clear_cell_carcinoma,clear cell carcinoma
+clear cell carcinoma,clear cell carcinoma
+clear cell carcinoma of cervix,clear cell carcinoma of cervix
+clear_cell_renal_cell_carcinoma,clear cell renal cell carcinoma
+CLL,chronic lymphocytic leukemia
+CNS germinoma,CNS germinoma
+colon adenocarcinoma,colon adenocarcinoma
+Colon Carcinoma,colon carcinoma
+colorectal,colorectal
+colorectal_adenocarcinoma,colorectal adenocarcinoma
+craniopharyngioma,craniopharyngioma
+cystadenocarcinoma,cystadenocarcinoma
+"cystadenocarcinoma, clear cell","cystadenocarcinoma, clear cell"
+"cystadenocarcinoma, endometrioid","cystadenocarcinoma, endometrioid"
+"cystadenocarcinoma, high grade serous","cystadenocarcinoma, high grade serous"
+"cystadenocarcinoma, mucinous","cystadenocarcinoma, mucinous"
+dedifferentiated,dedifferentiated
+ddlps,dedifferentiated liposarcoma
+dedifferentiated liposarcoma,dedifferentiated liposarcoma
+desmoplastic small round cell tumor,desmoplastic small round cell tumor
+diffuse_adenocarcinoma,diffuse adenocarcinoma
+diffuse_large_B_cell_lymphoma,diffuse large b-cell lymphoma
+diffuse large b-cell lymphoma,diffuse large b-cell lymphoma
+diffuse large B-cell lymphoma,diffuse large b-cell lymphoma
+DIPG,diffuse intrinsic pontine glioma
+"ductal adenocarcinoma, exocrine","ductal adenocarcinoma, exocrine"
+ductal adenosquamous carcinoma,ductal adenosquamous carcinoma
+"ductal adenosquamous carcinoma, exocrine","ductal adenosquamous carcinoma, exocrine"
+ductal_carcinoma,ductal carcinoma
+ductal_carcinoma_in_situ,ductal carcinoma in situ
+duodenal adenocarcinoma,duodenal adenocarcinoma
+dysembryoplastic neuroepithelial tumor,dysembryoplastic neuroepithelial tumor
+embryo_carcinoma,embryo carcinoma
+embryonal rhabdomyosarcoma,embryonal rhabdomyosarcoma
+embryonal tumor with multilayer rosettes,embryonal tumor with multilayer rosettes
+endometrial_adenocarcinoma,endometrial adenocarcinoma
+endometrial adenocarcinoma,endometrial adenocarcinoma
+endometrial adenosquamous carcinoma,endometrial adenosquamous carcinoma
+endometrial_squamous,endometrial squamous
+endometrial squamous cell carcinoma,endometrial squamous cell carcinoma
+endometrial stromal sarcoma,endometrial stromal sarcoma
+endometrioid_carcinoma,endometrioid carcinoma
+Ependymoblastoma,ependymoblastoma
+ependymoma,ependymoma
+Ependymoma,ependymoma
+ependymoma_Grade_III-IV,ependymoma grade III-IV
+epithelioid,epithelioid
+epithelioid hemangioendothelioma,epithelioid hemangioendothelioma
+epithelioid sarcoma,epithelioid sarcoma
+esophageal carcinoma,esophageal carcinoma
+ETMR,embryonal tumor with multilayered rosettes
+Ewing_sarcoma,ewing sarcoma
+Ewing sarcoma,ewing sarcoma
+Ewing Sarcoma,ewing sarcoma
+exocrine,exocrine
+Extracranial Rhabdoid,extracranial rhabdoid
+fibrolamellar hepatocellular carcinoma,fibrolamellar hepatocellular carcinoma
+fibromatosis,fibromatosis
+fibrosarcoma,fibrosarcoma
+follicular,follicular
+gallbladder_adenocarcinoma,gallbladder adenocarcinoma
+gastric_adenocarcinoma,gastric adenocarcinoma
+gastrointestinal stromal tumor,gastrointestinal stromal tumor
+glassy_cell_carcinoma,glassy cell carcinoma
+glioblastoma,glioblastoma
+Glioblastoma,glioblastoma
+glioblastoma multiforme,glioblastoma multiforme
+glioma,glioma
+gliomatosis cerebri,gliomatosis cerebri
+haemangiopericytic,haemangiopericytic
+hepatoblastoma,hepatoblastoma
+Hepatoblastoma,hepatoblastoma
+hepatocellular_carcinoma,hepatocellular carcinoma
+hepatocellular carcinoma,hepatocellular carcinoma
+"hepatocellular carcinoma, hbs-antigen carrier","hepatocellular carcinoma, hbs-antigen carrier"
+HER2 amp,HER2 amp
+HER2-enriched,HER2-enriched
+High-grade glioma,high-grade glioma
+hodgkin_lymphoma,hodgkin lymphoma
+"in collision with cholangicarcinoma, no review in spectrum","in collision with cholangicarcinoma, no review in spectrum"
+infantile fibrosarcoma,infantile fibrosarcoma
+INI-deficient soft tissue sarcoma NOS,INI-deficient soft tissue sarcoma NOS
+juvenile myelomonocytic leukemia,juvenile myelomonocytic leukemia
+kidney chromophobe,kidney chromophobe
+kidney clear cell carcinoma,kidney clear cell carcinoma
+krukenberg_tumor,krukenberg tumor
+large_cell_carcinoma,large cell carcinoma
+leiomyosarcoma,leiomyosarcoma
+liposarcoma,liposarcoma
+lobular_carcinoma,lobular carcinoma
+luminal,luminal
+luminal A,luminal A
+luminal B,luminal B
+luminal HER2 amp,luminal HER2 amp
+lung,lung
+lung adenocarcinoma,lung adenocarcinoma
+lung squamous cell carcinoma,lung squamous cell carcinoma
+lymphoma,lymphoma
+lymphoma_unspecified,"lymphoma, unspecified"
+MMMT,malignant mixed mullerian tumor
+malignant mixed mullerian tumor,malignant mixed mullerian tumor
+malignant peripheral nerve sheath tumor,malignant peripheral nerve sheath tumor
+malignant rhabdoid tumor,malignant rhabdoid tumor
+medulloblastoma,medulloblastoma
+Medulloblastoma,medulloblastoma
+melanocytic,melanocytic
+melanoma,melanoma
+"melanoma, amelanotic","melanoma, amelanotic"
+melanotic neuroectodermal tumor,melanotic neuroectodermal tumor
+meningioma,meningioma
+Merkel_cell_carcinoma,merkel cell carcinoma
+merkel cell carcinoma,merkel cell carcinoma
+mesothelioma,mesothelioma
+metaplastic_carcinoma,metaplastic carcinoma
+mixed_adenosquamous_carcinoma,mixed adenosquamous carcinoma
+mixed_carcinoma,mixed carcinoma
+monophasic,monophasic
+MPNST,malignant peripheral nerve sheath tumor
+mucinous_carcinoma,mucinous carcinoma
+mullerian carcinoma,mullerian carcinoma
+multiple_myeloma,multiple myeloma
+multiple myeloma,multiple myeloma
+"multiple myeloma, plasmacytoma","multiple myeloma, plasmacytoma"
+MYCN amp,MYCN amp
+myeloid neoplasm NOS,myeloid neoplasm NOS
+myoepithelial carcinoma,myoepithelial carcinoma
+myofibromatosis,myofibromatosis
+myxofibrosarcoma,myxofibrosarcoma
+myxoid,myxoid
+myxoid_round cell,myxoid round cell
+NA,NA
+nasopharyngeal carcinoma,nasopharyngeal carcinoma
+neural crest-like,neural crest-like
+neuroblastoma,neuroblastoma
+Neuroblastoma,neuroblastoma
+neuroendocrine,neuroendocrine
+neuroendocrine carcinoma,neuroendocrine carcinoma
+neurofibroma,neurofibroma
+nodular,nodular
+non_hodgkin_lymphoma,non-hodgkin lymphoma
+non_small_cell_carcinoma,non-small cell carcinoma
+non-seminoma,non-seminoma
+"non-small cell lung cancer, adenocarcinoma","non-small cell lung cancer, adenocarcinoma"
+"non-small cell lung cancer, adenosquamous carcinoma","non-small cell lung cancer, adenosquamous carcinoma"
+"non-small cell lung cancer, large cell carcinoma","non-small cell lung cancer, large cell carcinoma"
+"non-small cell lung cancer, mucoepidermoid carcinoma","non-small cell lung cancer, mucoepidermoid carcinoma"
+"non-small cell lung cancer, squamous cell carcinoma","non-small cell lung cancer, squamous cell carcinoma"
+NSCLC,"non-small cell lung cancer, unspecified"
+"non-small cell lung cancer, unspecified","non-small cell lung cancer, unspecified"
+normal,normal
+NS,NA
+NUT midline carcinoma,NUT midline carcinoma
+oligodendroglioma,oligodendroglioma
+osteosarcoma,osteosarcoma
+Osteosarcoma,osteosarcoma
+ovarian serous cystadenocarcinoma,ovarian serous cystadenocarcinoma
+ovary_adenocarcinoma,ovary adenocarcinoma
+papillary renal cell carcinoma,papillary renal cell carcinoma
+perivascular epithelioid cell neoplasms,perivascular epithelioid cell neoplasms
+pheochromocytoma & paraganglioma,pheochromocytoma & paraganglioma
+pineal parenchymal tumor,pineal parenchymal tumor
+pleomorphic,pleomorphic
+pleomorphic sarcoma,pleomorphic sarcoma
+Pleomorphic Xanthoastrocytoma,pleomorphic xanthoastrocytoma
+pleuropulmonary blastoma,pleuropulmonary blastoma
+PNET,primitive neuroectodermal tumor
+primitive neuroectodermal tumor,primitive neuroectodermal tumor
+prostate_adenocarcinoma,prostate adenocarcinoma
+prostate adenocarcinoma,prostate adenocarcinoma
+prostate_hyperplasia,prostate hyperplasia
+rectum adenocarcinoma,rectum adenocarcinoma
+"renal carcinoma, clear cell","renal carcinoma, clear cell"
+"renal carcinoma, transitional cell","renal carcinoma, transitional cell"
+renal_cell_carcinoma,renal cell carcinoma
+renal cell carcinoma,renal cell carcinoma
+renal leiomyoblastoma,renal leiomyoblastoma
+renal medullary carcinoma,renal medullary carcinoma
+retinoblastoma,retinoblastoma
+rhabdomyosarcoma,rhabdomyosarcoma
+Rhabdomyosarcoma,rhabdomyosarcoma
+"rhabdomyosarcoma, alveolar","rhabdomyosarcoma, alveolar"
+"rhabdomyosarcoma, embryonal","rhabdomyosarcoma, embryonal"
+rosette forming glioneuronal tumor,rosette forming glioneuronal tumor
+sarcoma,sarcoma
+sarcomatoid_carcinoma,sarcomatoid carcinoma
+seminoma,seminoma
+serous_carcinoma,serous carcinoma
+skin,skin
+skin_squamous,skin squamous
+small cell carcinoma,small cell carcinoma
+Small Cell Carcinoma,small cell carcinoma
+small cell carcinoma of the ovary hypercalcemic type,small cell carcinoma of the ovary hypercalcemic type
+SCLC,small cell lung cancer
+small cell lung cancer,small cell lung cancer
+SN,SN
+soft tissue,soft tissue
+somatostatinoma,somatostatinoma
+spindle,spindle
+spindle cell/sclerosing rhabdomyosarcoma,spindle cell/sclerosing rhabdomyosarcoma
+squamous_cell_carcinoma,squamous cell carcinoma
+squamous cell carcinoma,squamous cell carcinoma
+"squamous cell carcinoma, basaloid","squamous cell carcinoma, basaloid"
+"squamous cell carcinoma, buccal mucosa","squamous cell carcinoma, buccal mucosa"
+"squamous cell carcinoma, hypopharyngeal","squamous cell carcinoma, hypopharyngeal"
+"squamous cell carcinoma, laryngeal","squamous cell carcinoma, laryngeal"
+"squamous cell carcinoma, oral","squamous cell carcinoma, oral"
+"squamous cell carcinoma, pharynx","squamous cell carcinoma, pharynx"
+"squamous cell carcinoma, salivary gland","squamous cell carcinoma, salivary gland"
+"squamous cell carcinoma, tongue","squamous cell carcinoma, tongue"
+stomach adenocarcinoma,stomach adenocarcinoma
+storiform_pleomorphic,storiform pleomorphic
+supratentorial embryonal tumor NOS,supratentorial embryonal tumor NOS
+synovial,synovial sarcoma
+synovial sarcoma,synovial sarcoma
+t-cell,t-cell
+"t-cell, non-hodgkins, anaplastic large cell","t-cell, non-hodgkins, anaplastic large cell"
+"t-cell, non-hodgkins, cutaneous","t-cell, non-hodgkins, cutaneous"
+teratoma,teratoma
+testicular,testicular
+thymic_carcinoma,thymic carcinoma
+thymic carcinoma,thymic carcinoma
+thymoma,thymoma
+thyroid_carcinoma,thyroid carcinoma
+thyroid carcinoma,thyroid carcinoma
+thyroid sarcoma,thyroid sarcoma
+thyroid_squamous,thyroid squamous
+transitional_cell_carcinoma,transitional cell carcinoma
+transitional cell carcinoma,transitional cell carcinoma
+transitory,transitory
+undifferentiated,undifferentiated
+undifferentiated hepatic sarcoma,undifferentiated hepatic sarcoma
+undifferentiated pleomorphic sarcoma,undifferentiated pleomorphic sarcoma
+undifferentiated sarcoma NOS,undifferentiated sarcoma NOS
+undifferentiated spindle cell sarcoma,undifferentiated spindle cell sarcoma
+unspecified_leukemia,unspecified leukemia
+upper aerodigestive,upper aerodigestive
+upper_aerodigestive_squamous,upper aerodigestive squamous
+upper aerodigestive squamous,upper aerodigestive squamous
+uterine_carcinosarcoma,uterine carcinosarcoma
+uterine carcinosarcoma,uterine carcinosarcoma
+uterine endometrioid,uterine endometrioid
+uterine sarcoma,uterine sarcoma
+uveal_melanoma,uveal melanoma
+uveal melanoma,uveal melanoma
+wd/ddlps,well-differentiated/de-differentiated lyposarcoma
+wdlps,well-differentiated lyposarcoma
+well_differentiated,well-differentiated
+Wilms,wilms tumor
+wilms tumor,wilms tumor
+yolk_sac_tumour,yolk sac tumor

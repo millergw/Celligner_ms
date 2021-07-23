@@ -1,0 +1,202 @@
+participant_id,collaborator_sample_id,lineage,subtype,aliases,tumor_primary_site,tumor_morphology,tumor_molecular_subtype,gender,age_at_diagnosis,year_of_diagnosis,vital_status,death_date_dfd,notes,type
+RA_3773,T03113-2,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-3,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-4,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-5,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-6,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-7,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-8,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-9,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-10,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-11,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-12,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-13,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-14,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-15,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-19,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-20,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3773,T03113-22,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,57.05,2018,dead,21225,NA,juric-tumor
+RA_3493,T03134-1,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,55.3014,2019,dead,20366,NA,juric-tumor
+RA_3493,T03134-2,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,55.3014,2019,dead,20366,NA,juric-tumor
+RA_3493,T03134-3,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,55.3014,2019,dead,20366,NA,juric-tumor
+RA_3493,T03134-4,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,55.3014,2019,dead,20366,NA,juric-tumor
+RA_3493,T03134-5,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,55.3014,2019,dead,20366,NA,juric-tumor
+RA_4632,G3831-1,bile duct,,NA,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),NA,female,75.9644,2019,alive,NA,NA,juric-tumor
+RA_1558,T03093-2,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-3,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-5,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-6,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-7,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-8,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-9,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-10,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-11,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-12,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-16,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-17,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-18,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-19,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_1558,T03093-20,breast,luminal A,NA,BREAST (C50),NA,ER+/PR+/HER2-,female,60.1945,2006,dead,26843,NA,juric-tumor
+RA_2542,T03142-1,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-2,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-3,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-4,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-6,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-7,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-8,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-9,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-10,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-11,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-12,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-13,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-14,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-15,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-17,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_2542,T03142-18,breast,luminal A,NA,BREAST (C50),NA,ER+/PR-/HER-,female,50.6658,1996,dead,27143,NA,juric-tumor
+RA_4426,T03022-1,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-10,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-11,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-12,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-13,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-14,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-15,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-2,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-3,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-4,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-5,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-6,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-7,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-8,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4426,T03022-9,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_2402,T03035-1,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_2402,T03035-2,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_2402,T03035-3,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_2402,T03035-4,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_2402,T03035-5,breast,,NA,BREAST (C50),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3244,T01707-10,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-11,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-12,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-15,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-16,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-17,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-18,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-19,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-5,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-6,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3244,T01707-7,skin,,T01707,SKIN (C44),Metastatic Melanoma,NA,male,62.36,2008,not reported,NA,NA,juric-tumor
+RA_3533,T01788-1,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-12,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-2,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-3,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-5,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-6,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-7,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_3533,T01788-9,skin,,T01788,SKIN (C44),Metastatic Melanoma,NA,male,70.77,2016,not reported,NA,Right Plantar Heel Primary,juric-tumor
+RA_4215,T02041-1,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-10,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-11,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-12,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-13,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-14,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-2,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-3,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-4,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-5,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-6,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-7,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-8,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_4215,T02041-9,skin,,T02041,SKIN (C44),Metastatic Melanoma,NA,male,61.61,2014,not reported,NA,NA,juric-tumor
+RA_209,T01949-1,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-10,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-11,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-13,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-14,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-16,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-17,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-2,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-3,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-4,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-5,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-6,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-7,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-8,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_209,T01949-9,skin,,T01949,SKIN (C44),Metastatic Melanoma,NA,female,53.9,2002,not reported,NA,NA,juric-tumor
+RA_321,T01385-1,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-10,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-11,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-12,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-13,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-14,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-16,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-2,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-3,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-4,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-7,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-8,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_321,T01385-9,skin,,T01385,SKIN (C44),Metastatic Melanoma,NA,female,28.19,1980,not reported,NA,Ocular Primary,juric-tumor
+RA_571,T01550-1,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-10,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-11,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-12,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-13,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-14,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-15,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-17,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-18,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-2,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-3,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-5,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-6,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-7,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-8,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_571,T01550-9,skin,,T01550,SKIN (C44),Metastatic Melanoma,NA,male,71.81,2011,not reported,NA,NA,juric-tumor
+RA_255,T01604-10,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-11,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-12,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-13,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-14,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-15,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-16,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-17,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-18,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-19,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-20,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-21,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-8,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_255,T01604-9,skin,,T01604,SKIN (C44),Metastatic Melanoma,NA,male,41.9,2014,not reported,NA,NA,juric-tumor
+RA_552,T01621-10,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-2,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-4,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-6,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-7,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-8,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_552,T01621-9,skin,,T01621,SKIN (C44),Metastatic Melanoma,NA,male,67.01,2011,not reported,NA,NA,juric-tumor
+RA_498,T01769-1,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-10,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-11,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-12,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-13,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-14,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-15,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-2,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-3,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-4,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-5,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-6,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-7,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-8,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_498,T01769-9,skin,,T01769,SKIN (C44),Metastatic Melanoma,NA,female,57.34,2017,not reported,NA,NA,juric-tumor
+RA_3859,T03002-1,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-11,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-2,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-3,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-5,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-6,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-7,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-8,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_3859,T03002-9,skin,,NA,SKIN (C44),NA,NA,female,NA,NA,not reported,NA,NA,juric-tumor
+RA_4443,T01341-1,gastric,,NA,STOMACH (C16),NA,NA,female,49.2932,2012,dead,20634,NA,juric-tumor
+RA_4443,T01341-3,gastric,,NA,STOMACH (C16),NA,NA,female,49.2932,2012,dead,20634,NA,juric-tumor
+RA_4443,T01341-5,gastric,,NA,STOMACH (C16),NA,NA,female,49.2932,2012,dead,20634,NA,juric-tumor
+RA_4443,T01341-6,gastric,,NA,STOMACH (C16),NA,NA,female,49.2932,2012,dead,20634,NA,juric-tumor
+RA_4443,T01341-7,gastric,,NA,STOMACH (C16),NA,NA,female,49.2932,2012,dead,20634,NA,juric-tumor

@@ -1,0 +1,117 @@
+﻿participant_id,aliases,tumor_primary_site,tumor_morphology,tumor_molecular_subtype,Celligner_subtype,gender,age_at_diagnosis,year_of_diagnosis,vital_status,death_date_dfd,notes
+RA_1613,"1613, RP-1700_1613",GALLBLADDER (C23),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,78.2,2015,not reported,,
+RA_3789,,GALLBLADDER (C23),Cholangiocarcinoma,,bile duct - all,female,,,not reported,,
+RA_3689,T01931,LIVER AND INTRAHEPATIC BILE DUCTS (C22),8160/3 CHOLANGIOCARCINOMA,N/A - No Molecular Profiling Performed,bile duct - all,female,51.55,2018,not reported,,Poorly differentiated carcinoma
+RA_2460,T01776,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,46.58,2017,not reported,,"Adenocarcinoma, moderately differentiated"
+RA_1939,T01762,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,54.35,2014,not reported,,"Adenocarcinoma, moderately differentiated"
+RA_1542,T01132,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,74.15,2015,not reported,,moderately differentiated adenocarcinoma
+RA_1726,T01086,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,54.44,2015,not reported,,POORLY DIFFERENTIATED ADENOCARCINOMA
+RA_3328,T01815,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,61.18,2017,not reported,,Moderately-differentiated adenocarcinoma
+RA_1187,T00858,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,47.75,2013,not reported,,Diagnosis: endometrial adenocarcinoma (-1605 dfd)
+RA_1657,T01248,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,56.91,2016,not reported,,
+RA_2185,T01944,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,51.55,2018,not reported,,
+RA_2736,T02004,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,55.46,2016,not reported,,
+RA_3343,T02063,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,72.25,2017,not reported,,
+RA_3451,T02080,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,55.5,2018,not reported,,
+RA_3792,T02094,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,77.08,2017,not reported,,
+RA_4248,T03272,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,56.83,2019,dead,,
+RA_4875,T03158,LIVER AND INTRAHEPATIC BILE DUCTS (C22),C22 (8160/3 CHOLANGIOCARCINOMA) (Suspection),,bile duct - all,female,21.55,2019,dead,,
+RA_2408,T01357,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,male,64.46,2016,not reported,,Extrahepatic - intramucosal adenocarcinoma
+RA_3773,,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,57.05,2018,dead,21225,
+RA_3493,,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,55.3014,2019,dead,20366,
+RA_4632,,OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT (C24),C22 (8160/3 CHOLANGIOCARCINOMA),,bile duct - all,female,75.9644,2019,alive,,
+RA_1373,"1373, IMMU-19, RP-1700_1373",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER-/PR-/HER2- ,breast - basal,female,44.9,1997,not reported,,
+RA_1568,T00979,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),"ER rare cells faintly pos, PR-, HER2-, BRCA1/2-",breast - basal,female,58.57,2014,not reported,,INVASIVE DUCTAL CARCINOMA
+RA_1011,"IMMU-20, T00614",BREAST (C50),,ER-/PR-/HER2-,breast - basal,female,61.1,2011,not reported,,
+RA_1045,"1045, RP-1700_1045",BREAST (C50),C50  (8522/3 INFILTRATING DUCT AND LOBULAR CARCINOMA IN SITU),ER+/PR-/HER2- ,breast - luminal A,female,61.6,2008,not reported,,
+RA_2974,"2974, RP-1700_2974",BREAST (C50),C50 (8201/2 CRIBRIFORM CARCINOMA IN SITU),ER+/PR-/HER2-,breast - luminal A,female,38.4,1995,not reported,,
+RA_1326,"1326, RP-1700_1326",BREAST (C50),"C50 (8520/3 INFILTRATING LOBULAR CARCINOMA, NOS)",ER+/PR+/HER2 - ,breast - luminal A,female,73.5,2010,not reported,,
+RA_1534,1534,BREAST (C50),"C50 (8520/3 INFILTRATING LOBULAR CARCINOMA, NOS)",ER+/PR+/HER2 - ,breast - luminal A,male,69.9,2013,not reported,,
+RA_1078,"1078, RP-1700_1078",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR+ (weak)/HER2- (most recent),breast - luminal A,female,48.4,1998,not reported,,
+RA_1547,"1547, GM-105, IMMU-11, RP-1700_1547",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR-/HER2-,breast - luminal A,female,48.4,2010,not reported,,
+RA_1598,"1598, RP-1700_1598",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR+/HER2 - ,breast - luminal A,female,44.3,2005,not reported,,
+RA_1644,"1644, RP-1700_1644",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR+/HER2 - ,breast - luminal A,female,46.8,2008,not reported,,
+RA_1002,"1002, RP-1700_1002",BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR-/HER2-,breast - luminal A,female,33.7,1989,not reported,,
+RA_2389,T01354,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),ER+/PR+/HER2- // HER2 L755S missense mutation; RNF43 somatic alteration ,breast - luminal A,female,41.59,2014,not reported,,INVASIVE DUCTAL CARCINOMA
+RA_2819,T01893,BREAST (C50),C50 (8522/3 Infiltrating duct and lobular carcinoma),ER+/PR-/HER2 -,breast - luminal A,female,45.42,1996,not reported,,infiltrating carcinoma of the RIGHT breast w/ ductal and lobular features
+RA_3912,T01925,BREAST (C50),Invasive Ductal Adenocarcinoma,ER+/PR-/Her2- ,breast - luminal A,female,48.68,2015,not reported,,
+RA_2917,"IMMU-18, T01574",BREAST (C50),Invasive Ductal Carcinoma,ER+(10-50% faint)/PR-/HER2-,breast - luminal A,female,41.92,2015,not reported,,
+RA_1113,T00655,BREAST (C50),,ER+/PR-/HER2-,breast - luminal A,female,58.56,2005,not reported,,
+RA_1035,T00690,BREAST (C50),,ER+/PR+/HER2-,breast - luminal A,female,45.79,2005,not reported,,
+RA_1558,,BREAST (C50),,ER+/PR+/HER2-,breast - luminal A,female,60.1945,2006,dead,26843,
+RA_2542,,BREAST (C50),,ER+/PR-/HER-,breast - luminal A,female,50.6658,1996,dead,27143,
+RA_4848,T03186,BREAST (C50),,"ER+, PR+, HER2-/neu negative",breast - luminal A,female,61.95,2007,dead,,
+RA_1526,"1526, RP-1700_1526",COLON (C18),C54  (8380/3 ENDOMETRIOID ADENOCARCINOMA),,colorectal - colon adenocarcinoma,female,57.2,2007,not reported,,
+RA_2024,T01285,COLON (C18),"Invasive adenocarcinoma, moderately differentiated",,colorectal - colon adenocarcinoma,male,45.58,2014,not reported,,
+RA_3226,T01685,COLON (C18),moderately differentiated adenocarcinoma,HER2-amplified and mutated,colorectal - colon adenocarcinoma,female,51.02,2011,dead,,
+RA_2085,T01708,COLON (C18),poorly differentiated invasive colonic adenocarcinoma,,colorectal - colon adenocarcinoma,female,53.87,2013,not reported,,
+RA_3861,,COLON (C18),moderately differentiated invasive adenocarcinoma,,colorectal - colon adenocarcinoma,female,61.72,2015,dead,23901,
+MGHCC0001,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,60.4,2013,unknown,,non-IBM funded
+MGHCC0002,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,43.46,1995,unknown,,non-IBM funded
+MGHCC0003,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,40.9,1997,unknown,,non-IBM funded
+MGHCC0004,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,42.87,1989,unknown,,non-IBM funded
+MGHCC0005,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,50.3,2003,unknown,,non-IBM funded
+MGHCC0006,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,46.67,2007,unknown,,non-IBM funded
+MGHCC0007,,BREAST (C50),"C50 (8520/3 INFILTRATING LOBULAR CARCINOMA, NOS)",,Do not use,female,74.25,2012,unknown,,non-IBM funded
+MGHCC1005,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,48.84,2011,unknown,,non-IBM funded
+MGHCC1006,,BREAST (C50),"C50 (8520/3 INFILTRATING LOBULAR CARCINOMA, NOS)",,Do not use,female,43.38,2003,unknown,,non-IBM funded
+MGHCC1009,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,46.73,2010,unknown,,non-IBM funded
+MGHCC1015,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,31.58,1999,unknown,,non-IBM funded
+MGHCC1030,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,36.69,1999,unknown,,non-IBM funded
+MGHCC1041,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,53.79,2009,unknown,,non-IBM funded
+MGHCC1099,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,34.27,2009,unknown,,non-IBM funded
+MGHCC1101,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,39.25,2003,unknown,,non-IBM funded
+MGHCC1108,,BREAST (C50),"C50 (8520/3 INFILTRATING LOBULAR CARCINOMA, NOS)",,Do not use,female,60.28,2007,unknown,,non-IBM funded
+MGHCC1112,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,46.76,2009,unknown,,non-IBM funded
+MGHCC1173,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,53.04,2010,unknown,,non-IBM funded
+MGHCC1328,,BREAST (C50),C50 (8521/3 INFILTRATING DUCTULAR CARCINOMA),,Do not use,female,44.68,1996,unknown,,non-IBM funded
+MGHCC1573,,BREAST (C50),C50  (8522/3 INFILTRATING DUCT AND LOBULAR CARCINOMA IN SITU),,Do not use,female,50.1,2009,unknown,,non-IBM funded
+RA_1926,T01839,ESOPHAGUS (C15),"8140/3 ADENOCARCINOMA, NOS",HER-2 negative. EGFR and MET non-amplfied,esophagus - all,male,59.04,2012,not reported,,"invasive adenocarcinoma, moderately to poorly differentiated, involving gastric cardiac type mucosa"
+RA_4965,RA_4965,KIDNEY (C64),Renal Cell Carcinoma,,kidney - papillary renal cell carcinoma,female,72,2019,dead,,
+RA_4523,,KIDNEY (C64),,Renal Cell Carcinoma,kidney - papillary renal cell carcinoma,female,62.63,2019,dead,22961,
+RA_2754,T01838,LIVER AND INTRAHEPATIC BILE DUCTS (C22),Hepatocellular carcinoma (8170/3),,liver - all,male,63.09,2017,not reported,,
+RA_2177,T01957,LIVER AND INTRAHEPATIC BILE DUCTS (C22),Hepatocellular carcinoma (8170/3),,liver - all,male,59.89,2016,not reported,,
+RA_3812,T01959,LIVER AND INTRAHEPATIC BILE DUCTS (C22),Hepatocellular carcinoma (8170/3),,liver - all,female,71.46,2018,not reported,,
+RA_3738,T01876,LYMPH NODES (C77),Follicular Lymphoma Grade 1-2 of 3 (9690/3),,liver - all,male,62.81,2017,not reported,,
+RA_3817,T01891,LYMPH NODES (C77),"Malignant lymphoma, non-Hodgkin (9591/3)",Large B-Cell Lymphoma (GCB subtype),liver - all,female,43.05,2017,not reported,,
+RA_2113,T01253,BRONCHUS AND LUNG (C34),Squamous Cell Carcinoma,,lung - squamous cell carcinoma,female,71.38,2016,not reported,,
+RA_1511,T00945,BRONCHUS AND LUNG (C34),8046/3 NON-SMALL CELL CARCINOMA,,lung - lung adenocarcinoma,female,72.39,2015,not reported,,NON-SMALL CELL CARCINOMA
+RA_3634,T01888,BRONCHUS AND LUNG (C34),NON-SMALL CELL CARCINOMA,,lung - lung adenocarcinoma,female,61.84,2016,not reported,,
+RA_3274,T01920,BRONCHUS AND LUNG (C34),Non-Small Cell Lung Cancer,,lung - lung adenocarcinoma,male,67.49,2018,not reported,,
+RA_4430,T03107,BRONCHUS AND LUNG (C34),,,lung - lung adenocarcinoma,male,67.68,2010,dead,,
+RA_4426,,BREAST (C50),,,breast - all,female,,,not reported,,
+RA_2402,,BREAST (C50),,,breast - all,female,,,not reported,,
+RA_2098,T01862,OVARY (C56),8310/3 CLEAR CELL ADENOCARCINOMA,"IHC Positive - P53 (wild-type) //  Negative - NapsinA     BRCA1 and BRCA2, negative ",ovary - all,female,35.9,2015,not reported,,high grade ovarian clear cell carcinoma
+RA_3181,T01684,OVARY (C56),high grade serous Mullerian carcinoma,,ovary - all,female,72.57,2015,dead,,
+RA_4340,T02098,PANCREAS (C25),METASTATIC POORLY DIFFERENTIATED CARCINOMA,,pancreas - all,male,77.99,2019,not reported,,prior hx. Colon adenocarcinoma
+RA_3231,T01686,PANCREAS (C25),moderately differentiated adenocarcinoma,,pancreas - all,female,56.67,2017,not reported,,
+RA_4518,,PROSTATE GLAND (C61),,Gleason Score 10,prostate - all,male,65.57,2015,dead,25521,
+RA_2785,T01881,COLON (C18),Metastatic Rectal Adenocarcinoma,,colorectal - rectum adenocarcinoma,female,25.93,2017,not reported,,colorectal cancer
+RA_3035,"3035, RP-1700_3035",SKIN (C44),C43 (8720/3 MALIGNANT MELANOMA),,skin - all,male,62.9,2017,not reported,,
+RA_3781,T01896,SKIN (C44),Metastatic Melanoma,,skin - all,male,61.87,2009,not reported,,
+RA_3873,T01914,SKIN (C44),Metastatic Melanoma,,skin - all,male,54.65,2003,not reported,,
+RA_3649,T01835,SKIN (C44),Metastatic Melanoma,,skin - all,male,73.92,2014,not reported,,
+RA_4338,T02092,SKIN (C44),Metastatic Melanoma,,skin - all,male,64.77,2019,not reported,,
+RA_3244,T01707,SKIN (C44),Metastatic Melanoma,,skin - all,male,62.36,2008,not reported,,
+RA_3533,T01788,SKIN (C44),Metastatic Melanoma,,skin - all,male,70.77,2016,not reported,,Right Plantar Heel Primary
+RA_4215,T02041,SKIN (C44),Metastatic Melanoma,,skin - all,male,61.61,2014,not reported,,
+RA_209,T01949,SKIN (C44),Metastatic Melanoma,,skin - all,female,53.9,2002,not reported,,
+RA_321,T01385,SKIN (C44),Metastatic Melanoma,,skin - all,female,28.19,1980,not reported,,Ocular Primary
+RA_571,T01550,SKIN (C44),Metastatic Melanoma,,skin - all,male,71.81,2011,not reported,,
+RA_255,T01604,SKIN (C44),Metastatic Melanoma,,skin - all,male,41.9,2014,not reported,,
+RA_552,T01621,SKIN (C44),Metastatic Melanoma,,skin - all,male,67.01,2011,not reported,,
+RA_498,T01769,SKIN (C44),Metastatic Melanoma,,skin - all,female,57.34,2017,not reported,,
+RA_4484,T03028,SKIN (C44),Metastatic Melanoma,,skin - all,female,31.71,2011,dead,,
+RA_858,T03064,SKIN (C44),Metastatic Melanoma,,skin - all,female,28.18,2012,dead,,
+RA_4957,T03180,SKIN (C44),Metastatic Melanoma,,skin - all,female,57.52,2015,dead,,
+RA_4979,T03200,SKIN (C44),Metastatic Melanoma,,skin - all,male,52.78,2016,dead,,
+RA_3859,,SKIN (C44),,,skin - all,female,,,not reported,,
+RA_4432,,SKIN (C44),,Melanoma,skin - all,male,67.33,2010,dead,28028,
+RA_4575,,SKIN (C44),,Melanoma,skin - all,male,64.94,2019,dead,23836,
+RA_4443,,STOMACH (C16),,,gastric - all,female,49.2932,2012,dead,20634,
+RA_2168,T01326,STOMACH (C16),8490/3 SIGNET RING CELL CARCINOMA,HER2 negative,gastric - stomach adenocarcinoma,female,57.68,2016,not reported,,poorly cohesive adenocarcinoma with signet ring cells
+RA_3130,T01941,STOMACH (C16),8490/3 SIGNET RING CELL CARCINOMA,,gastric - stomach adenocarcinoma,female,39.05,2016,not reported,,"Invasive adenocarcinoma, poorly differentiated/poorly cohesive type with signet cell features."
+RA_3782,T01874,STOMACH (C16),Gastric Adenocarcinoma,,gastric - stomach adenocarcinoma,male,70.22,2018,not reported,,"GE junction/stomach, hx of follicular lymphoma"
+RA_3612,T01975,THYROID GLAND (C73),MEDULLARY THYROID CARCINOMA,,thyroid - all,female,50.12,2010,not reported,,
+RA_2544,T01863,CORPUS UTERI (C54),8380/3 ENDOMETRIOID ADENOCARCINOMA,,uterus - uterine endometrioid,female,70.99,2015,not reported,,"high-grade adenocarcinoma, Uterine primary"
+RA_1184,"IMMU-21, T00838",CORPUS UTERI (C54),EDOMETRIOID ADENOCARCINOMA  (8380/3),,uterus - uterine endometrioid,female,63.11,2009,not reported,,

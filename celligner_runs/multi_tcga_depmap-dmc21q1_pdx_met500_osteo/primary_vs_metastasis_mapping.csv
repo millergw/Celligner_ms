@@ -1,0 +1,11 @@
+Primary/Metastasis,type,count,fixed_PvsM
+,depmap-model,327,NA
+Additional - New Primary,tcgaplus-tumor,11,Primary
+Additional Metastatic,tcgaplus-tumor,1,Metastasis
+Metastasis,depmap-model,381,Metastasis
+Metastatic,tcgaplus-tumor,392,Metastasis
+Primary,depmap-model,541,Primary
+Primary Blood Derived Cancer - Peripheral Blood,tcgaplus-tumor,173,Primary
+Primary Tumor,tcgaplus-tumor,9184,Primary
+Recurrent Tumor,tcgaplus-tumor,45,Recurrent Tumor
+NA,tcgaplus-tumor,2430,NA
